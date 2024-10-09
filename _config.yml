@@ -99,18 +99,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
         
-          <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view my paper.</a>
+          <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view my master’s thesis.</a>
           
       - layout: left
         title:  East China Normal University
         caption: 2016 - 2024
-        sub_title: Statistics
+        sub_title: BSc Statistics
         quote: >
           ECNU is a public research university located in Shanghai, China. Established in 1951 through the merger of Daxia University and Guanghua University, it is the first normal university founded by the People’s Republic of China.
         description: | # this will include new lines to allow paragraphs
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
         
-          <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view my paper.</a>
+          <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view my undergraduate thesis.</a>
 # hobbies
   - title: A Little More About Me
     layout: text
