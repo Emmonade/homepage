@@ -143,6 +143,32 @@ content:
         description: |
           A real-time data visualization dashboard using Python and Plotly, focusing on presenting key metrics and insights for power market operations.
 
+# articles
+  - title: Aricles # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 《全额保障性收购可再生能源电量监管办法》分析解读及应对策略
+        link: https://mp.weixin.qq.com/s/3AuebpoPGnO-2Ck_mrOCgw
+        additional_links:
+          - title: 《全额保障性收购可再生能源电量监管办法》分析解读及应对策略
+            icon: fas fa-weixin
+            url: https://mp.weixin.qq.com/s/3AuebpoPGnO-2Ck_mrOCgw
+        description: |
+           本文章旨在分析国家发改委于2024年3月18日发布的《全额保障性收购可再生能源电量监管办法》对新能源场站运营的影响。通过梳理该政策的过往版本，并结合山西省的具体规则，对政策实施对电力市场可能带来的影响进行了深入研究与评估。
+      
+      - layout: right
+        title: Pricing Algorithm for Power Market
+        link: https://github.com/emmonade/pricing-algorithm
+        description: |
+          This project involves building and optimizing pricing algorithms for the power market, utilizing deep learning techniques to optimize energy trading strategies.
+      
+      - layout: right
+        title: Data Visualization Dashboard
+        link: https://github.com/emmonade/data-visualization-dashboard
+        description: |
+          A real-time data visualization dashboard using Python and Plotly, focusing on presenting key metrics and insights for power market operations.
+
 # hobbies
   - title: A Little More About Me
     layout: text
