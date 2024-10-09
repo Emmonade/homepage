@@ -116,6 +116,31 @@ content:
           🎓 **Major Courses**: Advanced Algebra, Mathematical Analysis, Stochastic Processes, Multivariate Statistical Analysis, Time Series Analysis, Quality Management, Design of Experiments, Sampling Survey; Probability Theory, Mathematical Statistics; Macroeconomics, Microeconomics, Monetary Finance, Principles of Accounting, Corporate Finance, etc.
         
           <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view my undergraduate thesis.</a>
+
+# projects
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Load Forecasting Model
+        link: https://github.com/emmonade/load-forecasting
+        additional_links:
+          - title: Live Demo
+            icon: fas fa-play
+            url: https://load-forecasting-demo.com
+        description: |
+          A machine learning model that predicts electricity load using advanced techniques like XGBoost and MLFlow. The project focuses on energy forecasting, hyperparameter tuning, and data optimization for the power market.
+      - layout: top-middle
+        title: Pricing Algorithm for Power Market
+        link: https://github.com/emmonade/pricing-algorithm
+        description: |
+          This project involves building and optimizing pricing algorithms for the power market, utilizing deep learning techniques to optimize energy trading strategies.
+      - layout: top-middle
+        title: Data Visualization Dashboard
+        link: https://github.com/emmonade/data-visualization-dashboard
+        description: |
+          A real-time data visualization dashboard using Python and Plotly, focusing on presenting key metrics and insights for power market operations.
+
 # hobbies
   - title: A Little More About Me
     layout: text
