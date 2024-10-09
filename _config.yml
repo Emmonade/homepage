@@ -110,7 +110,7 @@ content:
         sub_title: Data Analysis
         caption: internship，2022.12~2023.5
         description: | # this will include new lines to allow paragraphs
-            Participated in a data science project focused on rating technology-based enterprises, where I developed end-to-end modeling and data analysis skills.
+            🔧 Participated in a data science project focused on rating technology-based enterprises, where I developed end-to-end modeling and data analysis skills.
       
       - layout: left
         title: China Satellite Network Group Co., Ltd
@@ -118,7 +118,7 @@ content:
         sub_title: Algorithm Engineer
         caption: internship，2022.01~2022.6
         description: | # this will include new lines to allow paragraphs
-            During this internship, I was exposed to some cutting-edge algorithms and their applications in task scheduling scenarios for large-scale constellations. I am grateful for this internship, as it ignited my passion for technology and algorithms as a career path.
+            🚩 During this internship, I was exposed to some cutting-edge algorithms and their applications in task scheduling scenarios for large-scale constellations. I am grateful for this internship, as it ignited my passion for technology and algorithms as a career path.
             
 
 # projects
@@ -200,12 +200,13 @@ content:
       - layout: top-middle
         title: Super awesome project
         link: github.com/emmonade
+        caption: to be continued...
         # link_text: Project Website
         additional_links:
           - title:  emmonade
             icon: fab fa-github
             url: github.com/emmonade
-            caption: to be continued...
+            
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
