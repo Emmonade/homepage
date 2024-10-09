@@ -53,6 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Statistics</mark>、<mark>Python</mark> and <mark>Eating Delicious Food</mark>
 
+  If you are interested, this is my official cv 👉 
+
 content:
   - title: Porfolio # Title for the section
     layout: list # Type of content section (list/text)
@@ -104,7 +106,7 @@ content:
           <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view my undergraduate thesis.</a>
 
 # experience
-  - title: Experience # Title for the section
+  - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -112,9 +114,27 @@ content:
         link: qctc.com.cn
         # link_text: boringcompany.com
         sub_title: Algorithm Engineer
-        caption: Present
+        caption: current job
         description: | # this will include new lines to allow paragraphs
-            Mainly responsible for algorithms related to electricity load forecasting, renewable energy output forecasting, and electricity price forecasting across various provinces.
+            I am currently an algorithm enginneer at this company,mainly responsible for designing algorithms related to electricity load forecasting, renewable energy output forecasting, and electricity price forecasting across various provinces.
+
+      - layout: left
+        title: BIBCR
+        link: bibdr.org
+        # link_text: boringcompany.com
+        sub_title: Data Analysis
+        caption: internship，2022.12~2023.5
+        description: | # this will include new lines to allow paragraphs
+            Participated in a data science project focused on rating technology-based enterprises, where I developed end-to-end modeling and data analysis skills.
+      
+      - layout: left
+        title: BIBCR
+        link: bibdr.org
+        # link_text: boringcompany.com
+        sub_title: Data Analysis
+        caption: intern，2022.12~2023.5
+        description: | # this will include new lines to allow paragraphs
+            Participated in a data science project focused on rating technology-based enterprises, where I developed end-to-end modeling and data analysis skills.
             
 
 # projects
