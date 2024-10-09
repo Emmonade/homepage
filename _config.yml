@@ -99,7 +99,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
         
-          <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view my master’s thesis.</a>
+          <a href="lib/thesis_Msc.pdf" target="_blank">Click here to view my master’s thesis.</a>
           
       - layout: left
         title:  East China Normal University
