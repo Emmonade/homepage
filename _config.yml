@@ -72,6 +72,7 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
 # experience
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,11 +98,11 @@ content:
         quote: >
           Established in 1898, Peking University is the oldest higher education institution in China, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in modern China.
         description: | # this will include new lines to allow paragraphs
-          🎓**Major Courses**: Machine Learning, Neural Networks and Deep Learning, Deep Learning and Reinforcement Learning, Advanced Multivariate Statistics, Statistical Learning, Data Visualization, Statistical Inference, Big Data Case Study and Practice, Risk Management and Financial Institutions, Big Data Distributed Computing and Storage
+          🎓 **Major Courses**: Machine Learning, Neural Networks and Deep Learning, Deep Learning and Reinforcement Learning, Advanced Multivariate Statistics, Statistical Learning, Data Visualization, Statistical Inference, Big Data Case Study and Practice, Risk Management and Financial Institutions, Big Data Distributed Computing and Storage
          
-          **GPA**: 3.5 / 4.0
+          🚩 **GPA**: 3.5 / 4.0
           
-          🎖️**Honors & Awards**: Second Prize Scholarship of the Master’s Program, School of Mathematical Sciences, Peking University
+          🎖️ **Honors & Awards**: Second Prize Scholarship of the Master’s Program, School of Mathematical Sciences, Peking University
         
           <a href="lib/thesis_Msc.pdf" target="_blank">Click here to view my master’s thesis.</a>
           
@@ -112,7 +113,7 @@ content:
         quote: >
           ECNU is a public research university located in Shanghai, China. Established in 1951 through the merger of Daxia University and Guanghua University, it is the first normal university founded by the People’s Republic of China.
         description: | # this will include new lines to allow paragraphs
-          **Major Courses**: Advanced Algebra, Mathematical Analysis, Stochastic Processes, Multivariate Statistical Analysis, Time Series Analysis, Quality Management, Design of Experiments, Sampling Survey; Probability Theory, Mathematical Statistics; Macroeconomics, Microeconomics, Monetary Finance, Principles of Accounting, Corporate Finance, etc.
+           🎓 **Major Courses**: Advanced Algebra, Mathematical Analysis, Stochastic Processes, Multivariate Statistical Analysis, Time Series Analysis, Quality Management, Design of Experiments, Sampling Survey; Probability Theory, Mathematical Statistics; Macroeconomics, Microeconomics, Monetary Finance, Principles of Accounting, Corporate Finance, etc.
         
           <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view my undergraduate thesis.</a>
 # hobbies
@@ -120,11 +121,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in data science and algorithm engineering some of my other interests and hobbies are:
-      - Traveling
-      - Reading
-      - Everything about music
+      - ⛰️ Traveling
+      - 📖 Reading
+      - 🎵 Everything about music
 
-      Look at this cool image  
       ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
