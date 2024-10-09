@@ -205,13 +205,14 @@ content:
           - title:  emmonade
             icon: fab fa-github
             url: github.com/emmonade
+            caption: to be continued...
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          to be continued...
+          
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
