@@ -122,29 +122,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: right
-        title: Load Forecasting Model
-        link: https://github.com/emmonade/load-forecasting
-        additional_links:
-          - title: Live Demo
-            icon: fas fa-play
-            url: https://load-forecasting-demo.com
+        title: Undergraduate Thesis 
+        caption: rate risk,complex network, time analysis
         description: |
-          A machine learning model that predicts electricity load using advanced techniques like XGBoost and MLFlow. The project focuses on energy forecasting, hyperparameter tuning, and data optimization for the power market.
+          Research on Exchange Rate Risk in Export Credit Insurance under the Background of “One Belt, One Road” using Complex Network
       
       - layout: right
-        title: Pricing Algorithm for Power Market
-        link: https://github.com/emmonade/pricing-algorithm
+        title: Master's Thesis
+        caption: machine learning, corporate evaluation
         description: |
-          This project involves building and optimizing pricing algorithms for the power market, utilizing deep learning techniques to optimize energy trading strategies.
+          Research on the Promotion Mechanism of High-tech Product Revenue for Technology-oriented SMEs with a XGBoost Algorithm for Feature Importance Evaluation
+          
+          <a href="lib/thesis_Msc.pdf" target="_blank">Click here to view my master’s thesis.</a>
+
+          
       
       - layout: right
         title: Data Visualization Project 
         sub_title: Visualization of teachers in the disciplines of History and Archaeology at Chinese universities.
-        link: https://observablehq.com/@99124bd25029b379/untitled
         description: |
           By using data on university teachers’ alma maters, graduation times, and current institutions as input, the visualization is achieved through a force-directed layout algorithm to display the relationships between universities, teachers, and other entities.
 
-          <a href="https://observablehq.com/@99124bd25029b379/untitled" target="_blank">Project link </a>
+          <a href="https://observablehq.com/@99124bd25029b379/untitled" target="_blank">Demo of this project at Observable </a>
 
 # articles
   - title: Articles # Title for the section
@@ -183,9 +182,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in data science and algorithm engineering some of my other interests and hobbies are:
-      -  Traveling
-      -  Reading
-      -  Everything about music
+      - ⛰️ Traveling
+      - 📖 Reading
+      - 🎵 Everything about music
 
       ![Trees](images/landscape-trees.jpg "Trees")
 
