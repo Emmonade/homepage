@@ -7,9 +7,10 @@ version: 2
 
 # Personal info
 name: Yue Hong | 洪玥
-title: Algorithm Engineer
+title: Power Market Algorithm Engineer, Passionate about Data Science
 email: 18916838915@163.com
 website: https://emmonade.github.io/homepage/
+location: Beijing, China
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -103,14 +104,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in data science and algorithm engineering some of my other interests and hobbies are:
+      - Traveling
+      - Reading
+      - Everything about music
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
