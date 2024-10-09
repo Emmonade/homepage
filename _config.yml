@@ -121,7 +121,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: right
         title: Load Forecasting Model
         link: https://github.com/emmonade/load-forecasting
         additional_links:
@@ -130,12 +130,14 @@ content:
             url: https://load-forecasting-demo.com
         description: |
           A machine learning model that predicts electricity load using advanced techniques like XGBoost and MLFlow. The project focuses on energy forecasting, hyperparameter tuning, and data optimization for the power market.
-      - layout: top-middle
+      
+      - layout: right
         title: Pricing Algorithm for Power Market
         link: https://github.com/emmonade/pricing-algorithm
         description: |
           This project involves building and optimizing pricing algorithms for the power market, utilizing deep learning techniques to optimize energy trading strategies.
-      - layout: top-middle
+      
+      - layout: right
         title: Data Visualization Dashboard
         link: https://github.com/emmonade/data-visualization-dashboard
         description: |
