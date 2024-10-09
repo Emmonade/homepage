@@ -138,10 +138,11 @@ content:
           This project involves building and optimizing pricing algorithms for the power market, utilizing deep learning techniques to optimize energy trading strategies.
       
       - layout: right
-        title: Data Visualization Dashboard
-        link: https://github.com/emmonade/data-visualization-dashboard
+        title: Data Visualization Project 
+        sub_title: Visualization of teachers in the disciplines of History and Archaeology at Chinese universities.
+        link: https://observablehq.com/@99124bd25029b379/untitled
         description: |
-          A real-time data visualization dashboard using Python and Plotly, focusing on presenting key metrics and insights for power market operations.
+          By using data on university teachers’ alma maters, graduation times, and current institutions as input, the visualization is achieved through a force-directed layout algorithm to display the relationships between universities, teachers, and other entities.
 
 # articles
   - title: Articles # Title for the section
@@ -157,23 +158,21 @@ content:
         description: |
            本文章旨在分析国家发改委于2024年3月18日发布的《全额保障性收购可再生能源电量监管办法》对新能源场站运营的影响。通过梳理该政策的过往版本，并结合山西省的具体规则，对政策实施对电力市场可能带来的影响进行了深入研究与评估。
 
-           *This article analyzes the impact of the “Full Guaranteed Purchase of Renewable Energy Power Regulation” issued by the National Development and Reform Commission on March 18 on the operation of renewable energy power stations. The project reviews previous versions of the policy and conducts an in-depth study based on specific rules in Shanxi Province to evaluate the potential effects of its implementation.*
-      
+         
       - layout: right
         title: 山西电力市场规则体系V14变化和解读-新能源部分
         link: https://mp.weixin.qq.com/s/zkKmIThE_8NTFaR0Rwo1nw
         description: |
            本文重点梳理了新发布的《V14山西电力现货市场交易实施细则》中与新能源相关的11项修改、6项新增及1项删除内容，并在此基础上进行了系统分析和深入解读。
 
-           *This article focuses on summarizing the 11 modifications, 6 new additions, and 1 removal related to renewable energy in the newly released “V14 Implementation Rules for Shanxi Electricity Spot Market Trading,” followed by a systematic analysis and in-depth interpretation.*
-      
+          
       - layout: right
         title: “自调度”还是“报量报价”？储能现货市场申报策略
         link: https://mp.weixin.qq.com/s/Sw4W66OfG0FSVJc97SUgow
         description: |
            本文在针对安徽电力市场第四次试运行期间披露的出清价格进行数据分析，在此基础上，进一步针对独立储能电站的申报策略进行了分析，得出自调度模式下推荐“午充晚放”的策略。
 
-           *This article conducts a data analysis of the clearing prices disclosed during the fourth trial operation of the Anhui power market. Based on this analysis, it further examines the bidding strategies of independent energy storage stations and concludes that, under the self-dispatch mode, the recommended strategy is “charge at noon, discharge in the evening.”*
+         
 # hobbies
   - title: A Little More About Me
     layout: text
