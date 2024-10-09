@@ -126,6 +126,8 @@ content:
         caption: rate risk,complex network, time analysis
         description: |
           Research on Exchange Rate Risk in Export Credit Insurance under the Background of “One Belt, One Road” using Complex Network
+
+          <a href="lib/thesis_Msc.pdf" target="_blank">Click here to view my the thesis.</a>
       
       - layout: right
         title: Master's Thesis
@@ -133,7 +135,7 @@ content:
         description: |
           Research on the Promotion Mechanism of High-tech Product Revenue for Technology-oriented SMEs with a XGBoost Algorithm for Feature Importance Evaluation
           
-          <a href="lib/thesis_Msc.pdf" target="_blank">Click here to view my master’s thesis.</a>
+          <a href="lib/thesis_Msc.pdf" target="_blank">Click here to view the thesis.</a>
 
           
       
