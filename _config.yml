@@ -157,6 +157,8 @@ content:
             url: https://mp.weixin.qq.com/s/3AuebpoPGnO-2Ck_mrOCgw
         description: |
            本文章旨在分析国家发改委于2024年3月18日发布的《全额保障性收购可再生能源电量监管办法》对新能源场站运营的影响。通过梳理该政策的过往版本，并结合山西省的具体规则，对政策实施对电力市场可能带来的影响进行了深入研究与评估。
+           
+           <a href="https://mp.weixin.qq.com/s/3AuebpoPGnO-2Ck_mrOCgw" target="_blank">Click here to view this article.</a>
 
          
       - layout: right
@@ -168,7 +170,7 @@ content:
           
       - layout: right
         title: “自调度”还是“报量报价”？储能现货市场申报策略
-        link: https://mp.weixin.qq.com/s/Sw4W66OfG0FSVJc97SUgow
+        #ink: https://mp.weixin.qq.com/s/Sw4W66OfG0FSVJc97SUgow
         description: |
            本文在针对安徽电力市场第四次试运行期间披露的出清价格进行数据分析，在此基础上，进一步针对独立储能电站的申报策略进行了分析，得出自调度模式下推荐“午充晚放”的策略。
 
