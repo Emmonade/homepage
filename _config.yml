@@ -16,25 +16,25 @@ location: Beijing, China
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  emmonade
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: 洪玥
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -56,25 +56,6 @@ about_content: | # this will include new lines to allow paragraphs
   If you are interested, this is my official cv 👉 
 
 content:
-  - title: Porfolio # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,7 +63,7 @@ content:
       - layout: left
         title: Peking University
         caption: 2021 - 2023
-        sub_title: MSc Applied Statistics | Part-time
+        sub_title: MSc Applied Statistics
         quote: >
           Established in 1898, Peking University is the oldest higher education institution in China, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in modern China.
         description: | # this will include new lines to allow paragraphs
@@ -116,10 +97,14 @@ content:
         sub_title: Algorithm Engineer
         caption: current job
         description: | # this will include new lines to allow paragraphs
-            I am currently an algorithm enginneer at this company,mainly responsible for designing algorithms related to electricity load forecasting, renewable energy output forecasting, and electricity price forecasting across various provinces.
+            I am currently an algorithm enginneer at this company,mainly responsible for designing algorithms related to:
+            - electricity load forecasting
+            - renewable energy output forecasting
+            - electricity price forecasting across various provinces
 
       - layout: left
-        title: BIBCR
+        title: Beijing Institute of Big Data Research
+        sub_title: BIBDR
         link: bibdr.org
         # link_text: boringcompany.com
         sub_title: Data Analysis
@@ -128,13 +113,12 @@ content:
             Participated in a data science project focused on rating technology-based enterprises, where I developed end-to-end modeling and data analysis skills.
       
       - layout: left
-        title: BIBCR
-        link: bibdr.org
+        title: China Satellite Network Group Co., Ltd
         # link_text: boringcompany.com
-        sub_title: Data Analysis
-        caption: intern，2022.12~2023.5
+        sub_title: Algorithm Engineer
+        caption: internship，2022.01~2022.6
         description: | # this will include new lines to allow paragraphs
-            Participated in a data science project focused on rating technology-based enterprises, where I developed end-to-end modeling and data analysis skills.
+            During this internship, I was exposed to some cutting-edge algorithms and their applications in task scheduling scenarios for large-scale constellations. I am grateful for this internship, as it ignited my passion for technology and algorithms as a career path.
             
 
 # projects
@@ -210,6 +194,24 @@ content:
 
       ![Trees](images/landscape-trees.jpg "Trees")
 
+  - title: In the End # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/emmonade
+        # link_text: Project Website
+        additional_links:
+          - title:  emmonade
+            icon: fab fa-github
+            url: github.com/emmonade
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          to be continued...
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
