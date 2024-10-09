@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Statistics</mark>、<mark>Python</mark> and <mark>Eating Delicious Food</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Porfolio # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -103,11 +103,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Peking University
-        caption: 2021 - 2013
-        sub_title: MSc Applied Statistics
+        title:  East China Normal University
+        caption: 2016 - 2024
+        sub_title: Statistics
         quote: >
-          Established in 1898, Peking University is the oldest higher education institution in China, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in modern China.
+          ECNU is a public research university located in Shanghai, China. Established in 1951 through the merger of Daxia University and Guanghua University, it is the first normal university founded by the People’s Republic of China.
         description: | # this will include new lines to allow paragraphs
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
         
