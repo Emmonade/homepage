@@ -92,7 +92,7 @@ content:
     content:
       - layout: left
         title: QCTC
-        link: qctc.com.cn
+        link_text: qctc.com.cn
         # link_text: boringcompany.com
         sub_title: Algorithm Engineer
         caption: current job
@@ -101,6 +101,9 @@ content:
             - electricity load forecasting
             - renewable energy output forecasting
             - electricity price forecasting across various provinces
+            new challenges:
+            - explore the application of AI in power market 
+            - Transform our algorithm product into an AI interactive product. 
 
       - layout: left
         title: Beijing Institute of Big Data Research
