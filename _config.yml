@@ -101,7 +101,8 @@ content:
         
           <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view my paper.</a>
 
- 
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text) 
     content:
       - layout: left
         title:  East China Normal University
