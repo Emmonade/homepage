@@ -73,7 +73,7 @@ content:
           
           🎖️ **Honors & Awards**: Second Prize Scholarship of the Master’s Program, School of Mathematical Sciences, Peking University
         
-          <a href="lib/thesis_Msc.pdf" target="_blank">Click here to view my master’s thesis.</a>
+          <a href="lib/thesis_Msc.pdf" target="_blank">Click here</a>
           
       - layout: left
         title:  East China Normal University
@@ -84,7 +84,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           🎓 **Major Courses**: Advanced Algebra, Mathematical Analysis, Stochastic Processes, Multivariate Statistical Analysis, Time Series Analysis, Quality Management, Design of Experiments, Sampling Survey; Probability Theory, Mathematical Statistics; Macroeconomics, Microeconomics, Monetary Finance, Principles of Accounting, Corporate Finance, etc.
         
-          <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view my undergraduate thesis.</a>
+          <a href="lib/thesis_Bsc.pdf" target="_blank">Click here</a>
 
 # experience
   - title: Work Experience # Title for the section
