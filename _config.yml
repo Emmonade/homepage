@@ -97,7 +97,7 @@ content:
         sub_title: Algorithm Engineer
         caption: current job
         description: | # this will include new lines to allow paragraphs
-            I am currently an algorithm enginneer at this company,mainly responsible for designing algorithms related to:
+            I am currently algorithm enginneer in the field of power maket, at this company,I am mainly responsible for designing algorithms related to:
             - electricity load forecasting
             - renewable energy output forecasting
             - electricity price forecasting across various provinces
@@ -125,7 +125,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: left
         title: Undergraduate Thesis 
         caption: rate risk,complex network, time analysis
         description: |
@@ -133,7 +133,7 @@ content:
 
           <a href="lib/thesis_Msc.pdf" target="_blank">Click here to view the thesis.</a>
       
-      - layout: right
+      - layout: left
         title: Master's Thesis
         caption: machine learning, corporate evaluation
         description: |
@@ -143,7 +143,7 @@ content:
 
           
       
-      - layout: right
+      - layout: left
         title: Data Visualization Project 
         sub_title: Visualization of teachers in the disciplines of History and Archaeology at Chinese universities.
         description: |
@@ -155,7 +155,7 @@ content:
   - title: Articles # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: left
         title: 《全额保障性收购可再生能源电量监管办法》分析解读及应对策略
         additional_links:
           - title: 《全额保障性收购可再生能源电量监管办法》分析解读及应对策略
@@ -167,7 +167,7 @@ content:
            <a href="https://mp.weixin.qq.com/s/3AuebpoPGnO-2Ck_mrOCgw" target="_blank">Click here to view this article</a>
 
          
-      - layout: right
+      - layout: left
         title: 山西电力市场规则体系V14变化和解读-新能源部分
         description: |
            本文重点梳理了新发布的《V14山西电力现货市场交易实施细则》中与新能源相关的11项修改、6项新增及1项删除内容，并在此基础上进行了系统分析和深入解读。
@@ -175,7 +175,7 @@ content:
            <a href="https://mp.weixin.qq.com/s/zkKmIThE_8NTFaR0Rwo1nw" target="_blank">Click here to view this article</a>
 
           
-      - layout: right
+      - layout: left
         title: “自调度”还是“报量报价”？储能现货市场申报策略
         description: |
            本文在针对安徽电力市场第四次试运行期间披露的出清价格进行数据分析，在此基础上，进一步针对独立储能电站的申报策略进行了分析，得出自调度模式下推荐“午充晚放”的策略。
