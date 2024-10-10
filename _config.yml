@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Statistics</mark>、<mark>Python</mark> and <mark>Eating Delicious Food</mark>
 
-  If you are interested, this is my official cv 👉 
+  If you are interested, this is my official cv 👉 <a href="lib/洪玥.pdf" target="_blank">Click here</a>
 
 content:
 
