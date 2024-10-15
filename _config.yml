@@ -101,6 +101,7 @@ content:
             - electricity load forecasting
             - renewable energy output forecasting
             - electricity price forecasting across various provinces
+            
             new challenges:
             - explore the application of AI in power market 
             - Transform our algorithm product into an AI interactive product. 
@@ -134,7 +135,7 @@ content:
         description: |
           Research on Exchange Rate Risk in Export Credit Insurance under the Background of “One Belt, One Road” using Complex Network
 
-          <a href="lib/thesis_Msc.pdf" target="_blank">Click here to view the thesis.</a>
+          <a href="lib/thesis_Bsc.pdf" target="_blank">Click here to view the thesis.</a>
       
       - layout: left
         title: Master's Thesis
