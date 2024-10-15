@@ -92,7 +92,7 @@ content:
     content:
       - layout: left
         title: QCTC
-        link_text: qctc.com.cn
+        link: qctc.com.cn
         # link_text: boringcompany.com
         sub_title: Algorithm Engineer
         caption: current job
