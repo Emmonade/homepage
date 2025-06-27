@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   You’re warmly invited to follow my WeChat public account [MoonLabs] —
   
-  all my words live there, waiting to meet you ✨
+  all my words live there, waiting to meet you 🌙 📖 🌸
 
 content:
 
@@ -169,10 +169,10 @@ content:
 
         
 
-# articles
 
 
 
+# novels  
   - title: Fiction Writing # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -181,7 +181,9 @@ content:
         description: |
            于2025年开始启动了这篇长篇科幻小说项目的撰写，关于具身智能、AI拥有意识、宗教哲思的科学幻想，并模拟伦理道德层面会发生的种种情景。如果感兴趣，欢迎关注公众号[MoonLabs]，每周天下午更新最新章节。同步更新至 Matters ~
            <a href="https://mp.weixin.qq.com/s/fTMv2oxyGM1qr9B0pltnjw" target="_blank">Welcome! you can click here to view this fiction project ~ </a>
-           
+           <a href="https://matters.town/@rubyhong266?utm_source=share_copy&referral=rubyhong266" target="_blank">you can view the collections on matters too </a>
+
+# articles           
   - title: Articles # Title for the section
     layout: list # Type of content section (list/text)
     content:    
