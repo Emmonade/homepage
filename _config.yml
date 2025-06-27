@@ -13,7 +13,7 @@ website: https://emmonade.github.io/homepage/
 location: Beijing, China
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: facespics
@@ -159,9 +159,9 @@ content:
         title: Project Matching Platform
         sub_title: A website that connects technological talents and projects launcher
         description: |
-          这是我独立在写的一个网站，后期即将上线，我会在下方附上链接，敬请期待～
+          这是我独立在开发的一个网站，后期即将上线，我会在下方附上链接，敬请期待～
 
-          # <a href="https://observablehq.com/@99124bd25029b379/untitled" target="_blank">Demo of this project at Observable </a>
+        
 
 # articles
 
@@ -173,7 +173,7 @@ content:
       - layout: left
         title: 《如来如去》
         description: |
-           这是我与2025年开始启动的长篇科幻小说项目，关于具身智能、AI拥有意识的科学幻想，并模拟伦理道德层面会发生的种种情景。如果感兴趣，欢迎关注公众号[MoonLabs]，每周天下午更新最新章节。同步更新至 Matters ~
+           于2025年开始启动了这篇长篇科幻小说项目的撰写，关于具身智能、AI拥有意识、宗教哲思的科学幻想，并模拟伦理道德层面会发生的种种情景。如果感兴趣，欢迎关注公众号[MoonLabs]，每周天下午更新最新章节。同步更新至 Matters ~
 
            <a href="https://mp.weixin.qq.com/s/fTMv2oxyGM1qr9B0pltnjw" target="_blank">Welcome! you can click here to view this fiction project ~ </a>
 
