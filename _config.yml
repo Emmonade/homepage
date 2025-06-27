@@ -51,9 +51,11 @@ about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Yue Hong and you can call me Luna in English, and I'm currently an algorithm engineer. 
 
-  I am most skilled in: <mark>Statistics</mark>、<mark>Python</mark> and <mark>anything about FOOD</mark>
+  I am most skilled in: <mark>Statistics</mark>、<mark>Python</mark>、 <mark>Writing</mark>、 and <mark>Developing</mark>
 
   If you are interested, this is my official cv 👉 <a href="lib/洪玥.pdf" target="_blank">Click here</a>
+
+  And welcome to follow my WeiXin public accout [MoonLabs], all my wirtings will be published there( worth the journey ~)
 
 content:
 
