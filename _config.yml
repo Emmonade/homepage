@@ -159,6 +159,8 @@ content:
 
           <a href="https://observablehq.com/@99124bd25029b379/untitled" target="_blank">Demo of this project at Observable </a>
 
+          
+
       - layout: left
         title: Project Matching Platform
         sub_title: A website that connects talents and project launchers
@@ -171,17 +173,18 @@ content:
 
 
 
-  - title: Articles # Title for the section
+  - title: Fiction Writing # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: 《如来如去》
         description: |
            于2025年开始启动了这篇长篇科幻小说项目的撰写，关于具身智能、AI拥有意识、宗教哲思的科学幻想，并模拟伦理道德层面会发生的种种情景。如果感兴趣，欢迎关注公众号[MoonLabs]，每周天下午更新最新章节。同步更新至 Matters ~
-
            <a href="https://mp.weixin.qq.com/s/fTMv2oxyGM1qr9B0pltnjw" target="_blank">Welcome! you can click here to view this fiction project ~ </a>
-
-    
+           
+  - title: Articles # Title for the section
+    layout: list # Type of content section (list/text)
+    content:    
       - layout: left
         title: 《全额保障性收购可再生能源电量监管办法》分析解读及应对策略
         additional_links:
