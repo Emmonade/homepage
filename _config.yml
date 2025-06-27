@@ -7,13 +7,13 @@ version: 2
 
 # Personal info
 name: Yue Hong | 洪玥
-title: Power Market Algorithm Engineer, Passionate about Data Science
+title: Building at the Intersection of Algorithms, Neuroscience, and Imagination
 email: 18916838915@163.com
 website: https://emmonade.github.io/homepage/
 location: Beijing, China
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -155,10 +155,29 @@ content:
 
           <a href="https://observablehq.com/@99124bd25029b379/untitled" target="_blank">Demo of this project at Observable </a>
 
+      - layout: left
+        title: Project Matching Platform
+        sub_title: A website that connects technological talents and projects launcher
+        description: |
+          这是我独立在写的一个网站，后期即将上线，我会在下方附上链接，敬请期待～
+
+          # <a href="https://observablehq.com/@99124bd25029b379/untitled" target="_blank">Demo of this project at Observable </a>
+
 # articles
+
+
+
   - title: Articles # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: 《如来如去》
+        description: |
+        这是我与2025年开始启动的长篇科幻小说项目，关于具身智能、AI拥有意识的科学幻想，并模拟伦理道德层面会发生的种种情景。如果感兴趣，欢迎关注公众号[MoonLabs]，每周天下午更新最新章节。同步更新至 Matters ~
+
+         <a href="https://mp.weixin.qq.com/s/fTMv2oxyGM1qr9B0pltnjw" target="_blank">Welcome! you can click here to view this fiction project ~ </a>
+
+    
       - layout: left
         title: 《全额保障性收购可再生能源电量监管办法》分析解读及应对策略
         additional_links:
